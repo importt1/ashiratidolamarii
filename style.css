@@ -1,0 +1,78 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box;
+}
+body{
+   background-attachment: fixed;
+   background-image: url(asherat.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+.links{
+   
+transition: none;
+    margin-top:45% ;
+    margin-bottom:0% ;
+    padding: 3px;
+ text-align: center;
+ 
+}
+.facebook{
+   color: #fff;
+    font-size: 20px;
+    margin-left: 0px;
+}
+.facebook:hover{
+    color: #1f32a0;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 0px;
+}
+
+.insta{
+    color: #eae9eb;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 0px;
+}
+.insta:hover{
+    color: #b622bb;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 0px;
+
+}
+.snapchat{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 0px;
+
+}
+.snapchat:hover{
+    color: #a4b943;
+    font-size: 25px;
+    text-decoration: none;
+    
+    margin-left: 0px;
+
+
+}
+.tiktok{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 0px;
+
+}
+.tiktok:hover{
+   color: rgb(87, 68, 68);
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 0px;
+
+
+}
